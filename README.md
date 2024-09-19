@@ -1,7 +1,3 @@
-Here’s a properly formatted GitHub README:
-
----
-
 # **Artificial Intelligence (AI) & Deep Learning (DL) Lab Assignments - Semester 5**
 
 **Name**: Naisargi Bagal  
@@ -26,7 +22,3 @@ This repository contains lab assignments for the AI and Deep Learning courses as
   - Image classification.
   - Object detection.
   - Reinforcement learning.
-
----
-
-This format is clear, concise, and adheres to the typical structure of a GitHub README.
